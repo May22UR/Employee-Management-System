@@ -1,0 +1,6 @@
+#empty field not allowed
+#id (No characters only positive numbers no special characters cannot be negative)
+#name (Only caharacter min 2 letter no special characters)
+#salary (No characters only positive numbers no special characters cannot be negative)
+#all field should be filled
+
